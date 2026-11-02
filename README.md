@@ -14,7 +14,7 @@ Os arquivos do laboratório ficam em `tarefa03/`:
 Preparação interrompida antes da seção 4 a pedido do aluno. Nenhum serviço do laboratório foi iniciado.
 A validação `docker compose config --quiet` fica para depois da criação do arquivo Compose.
 
-O repositório foi preparado localmente e ainda precisa ser criado/publicado no GitHub.
+Repositório público: https://github.com/JefWill/dct2201-banco-de-dados
 
 ## Entrega
 
